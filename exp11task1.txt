@@ -1,9 +1,5 @@
 /* AIM: WAP to maintain a simple employee database using file handling.
-Name  : Muntazir patel
-Class : FE
-UIN   : 241A012
-ROLL  : 12
-DIV   : A
+
 */
 #include <stdio.h>
 struct employee {
